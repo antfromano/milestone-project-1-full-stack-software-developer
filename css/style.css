@@ -2,6 +2,12 @@ body {
     font-family: 'Balsamiq Sans', cursive;
 }
 
+/*--Navbar--*/ 
+.navbar {
+    margin-top: 20px;
+}
+/*--navbar--*/ 
+
 .card {
     float: left;
     width: 40%;
@@ -12,3 +18,10 @@ img {
     width: 75%;
     height: 40%;
 }
+
+/*--footer--*/ 
+.fixed-bottom {
+    margin-bottom: 20px;
+}
+/*--footer--*/ 
+
