@@ -5,6 +5,7 @@ body {
 /*--Navbar--*/ 
 .navbar {
     margin-top: 20px;
+    margin-bottom: 20px;
 }
 /*--navbar--*/ 
 
@@ -15,11 +16,55 @@ body {
 }
 
 img {
-    width: 75%;
-    height: 40%;
+  width: 100%;
+  height: auto;
 }
 
-/*--footer--*/ 
+/*--About--*/
+.about {
+    margin-top: 10px;
+}
+/*--about--*/
+
+/* Contact Form */
+
+.contact-heading {
+    font-weight: 300;
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
+
+.form-control {
+    margin-top: 10px;
+}
+
+.center-form {
+    padding-top: 10px;
+    margin: 0 auto;
+    max-width: 40%;
+}
+
+button[type="submit"] {
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+
+#container {
+    background: white;
+    width: 400px; 
+    margin: 0px auto; 
+    border: 1px solid gainsboro;
+}
+
+#padding {
+    border: none; 
+    margin: 0 0 0 0; 
+    padding: 20px 20px 20px 20px;
+}
+
+/* contact Form */
+
+/*--Footer--*/ 
 .fixed-bottom {
     margin-bottom: 20px;
 }
