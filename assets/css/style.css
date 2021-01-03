@@ -13,7 +13,7 @@ img {
 }
 
 .btn {
-    margin: 20px auto;
+    margin: 15px auto;
 }
 
 /*--Navbar--*/ 
@@ -21,6 +21,7 @@ img {
     margin-top: 20px;
     margin-bottom: 20px;
 }
+
 /*--navbar--*/ 
 
 /*--Cards--*/ 
@@ -40,7 +41,7 @@ img {
 /* Contact Form */
 .contact-heading {
     font-weight: 300;
-    margin-top: 25px;
+    margin-top: 10px;
     margin-bottom: 20px;
 }
 
@@ -76,17 +77,6 @@ button[type="submit"] {
 /*--Footer--*/ 
     .fixed-bottom {
     margin-bottom: 20px;
-
-@media (min-width: 576px) {
-
-}
-
-@media (min-width: 768px) { ... }
-
-@media (min-width: 992px) { ... }
-
-
-
 }
 /*--footer--*/ 
 
