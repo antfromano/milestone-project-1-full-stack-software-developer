@@ -2,9 +2,14 @@ body {
     font-family: 'Balsamiq Sans', cursive;
 }
 
+img {
+    width: 100%;
+    height: auto;
+}
+
 .filtered {
-  filter: grayscale(100%)
-  contrast(200%);
+    filter: grayscale(100%)
+    contrast(200%);
 }
 
 .btn {
@@ -26,11 +31,6 @@ body {
 }
 /*--cards--*/ 
 
-img {
-  width: 100%;
-  height: auto;
-}
-
 /*--About--*/
 .about {
     margin-top: 10px;
@@ -38,7 +38,6 @@ img {
 /*--about--*/
 
 /* Contact Form */
-
 .contact-heading {
     font-weight: 300;
     margin-top: 25px;
@@ -72,11 +71,10 @@ button[type="submit"] {
     margin: 0 0 0 0; 
     padding: 20px 20px 20px 20px;
 }
-
 /* contact Form */
 
 /*--Footer--*/ 
-.fixed-bottom {
+    .fixed-bottom {
     margin-bottom: 20px;
 }
 /*--footer--*/ 
