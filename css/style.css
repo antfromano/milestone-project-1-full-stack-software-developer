@@ -3,7 +3,6 @@ body {
 }
 
 .filtered {
-  -webkit-filter: grayscale(100%);
   filter: grayscale(100%)
   contrast(200%);
 }
