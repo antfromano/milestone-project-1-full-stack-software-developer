@@ -13,7 +13,7 @@ img {
 }
 
 .btn {
-    margin: 15px auto;
+    margin: 10px auto;
 }
 
 /*--Navbar--*/ 
@@ -67,7 +67,7 @@ button[type="submit"] {
 /* contact Form */
 
 /*--Footer--*/ 
-    .fixed-bottom {
+    .footer {
     margin-bottom: 20px;
 }
 /*--footer--*/ 

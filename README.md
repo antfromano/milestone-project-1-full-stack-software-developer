@@ -32,7 +32,7 @@ guidance from:  https://stackoverflow.com/questions/10869739/how-to-make-full-s
 
 * About Page - concise text description of development experience and work philosophy developed utilizing HTML, CSS and Bootstrap.
 
-* Projects Page/Cards - simple display and links to examples of Full Stack Software Development projects employing HTML, CSS and Bootstrap with guidance from:  https://www.w3schools.com/bootstrap4/bootstrap_cards.asp
+* Projects Page/Cards - simple display and links to examples of Full Stack Software Development projects employing HTML, CSS and Bootstrap with guidance from:  https://www.tutorialrepublic.com/twitter-bootstrap-tutorial/bootstrap-cards.php and https://careerkarma.com/blog/bootstrap-card-component/
 
 *  Contact Page - concise message matching aesthetic from about page and providing easily recognizable name, email and message input fields for potential employers, recruiters and future collaborators to reach out applied using HTML, CSS and Bootstrap.
 
