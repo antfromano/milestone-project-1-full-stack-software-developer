@@ -82,7 +82,7 @@ Mentorship and guidance provided by Aaron Sinnott from Code Institute
 ### Content
 The format for README.md was taken from:  https://github.com/Code-Institute-Solutions/readme-template
 
-###Media
+### Media
 The photos used in this site were obtained from https://www.freepik.com/free-vector/abstract-bright-comic-book-background_1124955.htm
 
 ### Acknowledgements
