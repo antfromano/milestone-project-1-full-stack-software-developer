@@ -16,10 +16,14 @@ img {
     margin: 10px auto;
 }
 
+h1,h2,p { 
+    font-weight: 900 !important; 
+}
+
 /*--Navbar--*/ 
 .navbar {
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 /*--navbar--*/ 
@@ -32,19 +36,18 @@ img {
 
 /* Contact Form */
 .contact-heading {
-    font-weight: 300;
     margin-top: 10px;
     margin-bottom: 20px;
 }
 
-.form-control {
+.form-control  {
+    background: white;
     margin-top: 10px;
 }
 
 .center-form {
-    padding-top: 10px;
+    width: 400px; 
     margin: 0 auto;
-    max-width: 40%;
 }
 
 button[type="submit"] {
@@ -62,14 +65,13 @@ button[type="submit"] {
 #padding {
     border: none; 
     margin: 0 0 0 0; 
-    padding: 20px 20px 20px 20px;
+    padding: 15px 15px 15px 15px;
 }
 /* contact Form */
 
 /*--Footer--*/ 
     .footer {
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
-
 /*--footer--*/ 
 
