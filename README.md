@@ -1,45 +1,89 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+# Milestone Project 1 - Full Stack Software Developer | Ant Romano
+A comprehensive personal portfolio site designed using HTML, CSS and Bootstrap to highlight skills learned during Full Stack Software Development coursework.
 
-Welcome antfromano,
+## UX
+Designed to provide a user experience for potential employers, recruiters and future collaborators to highlight software development skills combining a resume project with a concise comic book
+ aesthetic while providing links to project examples using a clean simple accessible and visually interesting format.
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+As a potential employer who wants to evaluate Ant Romano's Full Stack Software Development skills through a live website and it's corresponding code and documentation.
 
-## Gitpod Reminders
+As a recruiter who wants to evaluate and share with potential employers Ant Romano's Full Stack Software Development skills through a live website and its corresponding code and documentation.
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+As a future collaborator who wants to evaluate Ant Romano's Full Stack Software Development skills through a live website and it's corresponding code and documentation.
 
-`python3 -m http.server`
+To all providing links to social media and a simple format to contact with regards to job opportunities or projects.
 
-A blue button should appear to click: *Make Public*,
+The Balsamiq Cloud Wireframe providing framework for development is accessible here: https://balsamiq.cloud/sxgn9fq/p35dbac 
 
-Another blue button should appear to click: *Open Browser*.
+## Features
+### Existing Features
+* Feature 1 - allows users X to achieve Y, by having them fill out Z
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+* UX/User Experience - designed to be clean, simple, accessible and visually interesting developed using Balsamiq Cloud Wireframe.
 
-A blue button should appear to click: *Make Public*,
+* Background Image - selected for a comic book aesthetic and filtered to grayscale.  Utilized HTML, CSS and Bootstrap with background image from:: https://www.freepik.com/free-vector/abstract-bright-comic-book-background_1124955.htm
+guidance from:  https://stackoverflow.com/questions/10869739/how-to-make-full-screen-background-in-a-web-page
 
-Another blue button should appear to click: *Open Browser*.
+* Navigation Bar - striking blue bar allows potential employers, recruiters and future collaborators to simply navigate through website pages: Home, About, Projects and Contact.  Utilized HTML, CSS and Bootstrap to develop with guidance from:  https://getbootstrap.com/docs/4.1/components/navbar/ and https://stackoverflow.com/
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+* Index/Home Page Callout -  attention grabbing red text naming developer of the website and playfully presenting shield like icons for the software development languages HTML5 and CSS3 used to develop the site.  Coded with HTML, CSS and Bootstrap to develop with icons from:  https://fontawesome.com/
 
-## Updates Since The Instructional Video
+* Footer/Social Media Icons/Buttons - matching blue social media icons set on all pages allowing users to simply link to GitHub, LinkedIn, Instagram and Facebook implemented with HTML, CSS and Bootstrap.
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+* About Page - concise text description of development experience and work philosophy developed utilizing HTML, CSS and Bootstrap.
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+* Projects Page/Cards - simple display and links to examples of Full Stack Software Development projects employing HTML, CSS and Bootstrap with guidance from:  https://www.w3schools.com/bootstrap4/bootstrap_cards.asp
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+*  Contact Page - concise message matching aesthetic from about page and providing easily recognizable name, email and message input fields for potential employers, recruiters and future collaborators to reach out applied using HTML, CSS and Bootstrap.
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+### Features Left to Implement/Other Feature Ideas
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+* Index/Home Page Callout - Additional shield like icons for software development languages learned.
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+* About Page - Add graphical representation of skill set experience. 
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+* Projects Page/Cards - Additional Project Cards for future projects.
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+## Technologies Used
+* HTML, CSS
 
---------
+* Bootstrap:  https://getbootstrap.com/ employed for painless structuring and layout
 
-Happy coding!
+* Font Awesome:  https://fontawesome.com/ utilized for simple implementation of icons/ci_logo_small
+
+* Google Fonts:  https://fonts.google.com/ used for efficient implementation of visually interesting fonts.
+
+* GitHub:  https://github.com/antfromano/milestone-project-1 as a repository, distributed version-control system for tracking changes and to deploy and host the final version of code.
+
+* Gitpod:  https://gitpod.io/ utilized as a collaborative development environment.
+
+## Testing
+
+Methodically and systematically manually tested UX/User Experience through all pages and specifically ensuring that foreground information isn't distracted by the Background Image;
+Navigation Bar, Index/Home Page Callout, Footer/Social Media Icons/Buttons, About Page, Projects Page/Cards and Contact Page are consistent in style and color and allows users to initiate and control actions
+
+### Specifically tested Contact Page:
+1. Attempted to send a message with empty form and empty input fields and verified error message.
+2. Attempted to submit form with an invalid email address and verified error message.
+3. Submitted the form with all inputs valid and verify that a success message appears.
+
+Tested all pages on different browsers and screen sizes when possible.
+
+Found the site works well, how intended and will allow potential employers, recruiters and future collaborators a simple and accurate portfolio of Ant Romano's Full Stack Software Development skills and experience.
+
+Utilized W3C CSS Validator and W3C Markup Validation Service to check HTML.  Results are available here:  /workspace/milestone-project-1/assets/W3C CSS Validator results for TextArea (CSS level 3 + SVG).pdf
+
+## Deployment
+Deployed project to GitHub Pages using development version
+
+## Credits
+Mentorship and guidance provided by Aaron Sinnott from Code Institute
+
+### Content
+The format for README.md was taken from:  https://github.com/Code-Institute-Solutions/readme-template
+
+###Media
+The photos used in this site were obtained from https://www.freepik.com/free-vector/abstract-bright-comic-book-background_1124955.htm
+
+### Acknowledgements
+I received inspiration for this project from Sonia Hussain and Rosie Odenkirk.
