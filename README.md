@@ -1,7 +1,7 @@
 # Milestone Project 1 - Full Stack Software Developer | Ant Romano
 A comprehensive personal portfolio site designed using HTML, CSS and Bootstrap to highlight skills learned during Full Stack Software Development coursework.
 
-## UX
+## UX/User Experience
 Designed to provide a user experience for potential employers, recruiters and future collaborators to highlight software development skills combining a resume project with a concise comic book
  aesthetic while providing links to project examples using a clean simple accessible and visually interesting format.
 
@@ -26,9 +26,9 @@ guidance from:  https://stackoverflow.com/questions/10869739/how-to-make-full-s
 
 * Navigation Bar - striking blue bar allows potential employers, recruiters and future collaborators to simply navigate through website pages: Home, About, Projects and Contact.  Utilized HTML, CSS and Bootstrap to develop with guidance from:  https://getbootstrap.com/docs/4.1/components/navbar/ and https://stackoverflow.com/
 
-* Index/Home Page Callout -  attention grabbing red text naming developer of the website and playfully presenting shield like icons for the software development languages HTML5 and CSS3 used to develop the site.  Coded with HTML, CSS and Bootstrap to develop with icons from:  https://fontawesome.com/
+* Index/Home Page Callout -  attention grabbing text naming developer of the website and playfully presenting shield like icons for the software development languages HTML5 and CSS3 used to develop the site.  Coded with HTML, CSS and Bootstrap to develop with icons from:  https://fontawesome.com/
 
-* Footer/Social Media Icons/Buttons - matching blue social media icons set on all pages allowing users to simply link to GitHub, LinkedIn, Instagram and Facebook implemented with HTML, CSS and Bootstrap.
+* Footer/Social Media Icons/Buttons - matching social media icons set on all pages allowing users to simply link to GitHub, LinkedIn, Instagram and Facebook implemented with HTML, CSS and Bootstrap.
 
 * About Page - concise text description of development experience and work philosophy developed utilizing HTML, CSS and Bootstrap.
 
@@ -71,7 +71,9 @@ Tested all pages on different browsers and screen sizes when possible.
 
 Found the site works well, how intended and will allow potential employers, recruiters and future collaborators a simple and accurate portfolio of Ant Romano's Full Stack Software Development skills and experience.
 
-Utilized W3C CSS Validator and W3C Markup Validation Service to check HTML.  Results are available here:  /workspace/milestone-project-1/assets/W3C CSS Validator results for TextArea (CSS level 3 + SVG).pdf
+Utilized W3C CSS Validator and W3C Markup Validation Service to check HTML.  Results are available here:  
+https://github.com/antfromano/milestone-project-1/blob/d228b2048c51b97b2c19a2b0c695d9f543dc4f1a/docs/results_Nu_Html_Checker.pdf and here
+https://github.com/antfromano/milestone-project-1/blob/d228b2048c51b97b2c19a2b0c695d9f543dc4f1a/docs/W3C_CSS%20Validator_results.pdf
 
 ## Deployment
 Deployed project to GitHub Pages using development version
