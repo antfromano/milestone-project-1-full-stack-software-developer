@@ -4,7 +4,7 @@
 
 A comprehensive personal portfolio site designed using HTML, CSS and Bootstrap to highlight skills learned during Full Stack Software Development coursework.
 
-<h2 align="center"><img src="https://i.ibb.co/TYvTXz1/Example-CI.png"></h2>
+<h2 align="center"><img src="https://github.com/antfromano/milestone-project-1/blob/master/assets/images/mulidevicewebsitemockup.jpg"></h2>
 
 ## User Experience (UX)
 
