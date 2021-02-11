@@ -24,13 +24,13 @@ aesthetic while providing links to project examples using a clean simple accessi
 
         1. As a Recruiter, I want to evaluate and share with potential employers Ant Romano's Full Stack Software Development skills through a live website and its corresponding code and documentation.
         2. As a Recruiter, I want to locate their social media links to evaluate their relevant social media.
-        3. As a Recruiter, I want a simple format to [contact](https://github.com/antfromano/milestone-project-1/blob/master/assets/images/contactpagescreenshot.jpg) with regards to job opportunities.
+        3. As a Recruiter, I want a simple format to with regards to job opportunities.
 
         ![Alt text](assets/images/contactpagescreenshot.jpg)
     -  #### Future Collaborator Goals
         1. As a Future Collaborator, I want to evaluate Ant Romano's Full Stack Software Development skills through a live website and it's corresponding code and documentation.
         2. As a Future Collaborator, I want to locate their social media links to evaluate their relevant social media.
-        3. As a Future Collaborator, I want a simple format to [contact](https://github.com/antfromano/milestone-project-1/blob/master/assets/images/contactpagescreenshot.jpg)with regards to projects.
+        3. As a Future Collaborator, I want a simple format to with regards to projects.
 
         ![Alt text](assets/images/contactpagescreenshot.jpg)
 -   ### Design
