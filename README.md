@@ -228,7 +228,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Media
 
--   The photos used in this site were obtained from [here](https://www.freepik.com/free-vector/abstract-bright-comic-book-background_1124955.htm)
+-   Background vector created by Creative_hat - www.freepik.com from [here](https://www.freepik.com/free-vector/abstract-bright-comic-book-background_1124955.htm)
 
 ### Acknowledgements
 
