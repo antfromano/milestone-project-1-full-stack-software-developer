@@ -31,7 +31,7 @@ aesthetic while providing links to project examples using a clean simple accessi
         3. As a Future Collaborator, I want a simple format to contact with regards to projects.
 
 -   ### Design
-    -   #### Colour Scheme
+    -   #### Color Scheme
         -   The main colors used are black, gray and white.
     -   #### Typography
         -   The Balsamiq Sans font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly.
@@ -47,7 +47,7 @@ aesthetic while providing links to project examples using a clean simple accessi
 
 -   Responsive on all device sizes
 
--   Interactive elements
+-   Attractive, efficient and interactive elements
 
 ## Features Left to Implement/Other Feature Ideas
 
@@ -55,28 +55,25 @@ aesthetic while providing links to project examples using a clean simple accessi
 
 -   Projects Page/Cards - Additional Project Cards for future projects.
 
+## Technologies
 
-## Technologies Used
-
-### Languages Used
+### Languages
 
 -   [HTML5](https://en.wikipedia.org/wiki/HTML5)
 -   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 
-### Frameworks, Libraries & Programs Used
+### Frameworks, Libraries & Programs
 
 1. [Bootstrap:](https://getbootstrap.com/)
-    - Bootstrap was employed for painless structuring and layout.
+    - for structure and layout.
 1. [Google Fonts:](https://fonts.google.com/)
-    - Google fonts were used for efficient implementation of visually interesting fonts.
+    - for implementation fonts.
 1. [Font Awesome:](https://fontawesome.com/)
-    - Font Awesome was utilized for simple implementation of icons/ci_logo_small.
+    - for simple implementation of icons/ci_logo_small.
 1. [GitHub:](https://github.com/antfromano/milestone-project-1)
-    - GitHub was used as a repository, distributed version-control system for tracking changes and to deploy and host the final version of code.
+    - as a repository, distributed version-control system for tracking changes and to deploy and host final version of code.
 1. [Gitpod:](https://gitpod.io/)
-    - Gitpod was utilized as a collaborative development environment.
-1. [Photoshop:](https://www.adobe.com/ie/products/photoshop.html)
-    - Photoshop was used to create the logo, resizing images and editing photos for the website.
+    - as a collaborative development environment.
 1. [Balsamiq:](https://balsamiq.com/)
     - Balsamiq was used to create the [wireframes](https://github.com/antfromano/milestone-project-1/blob/master/docs/wireframe_from_balsamiq.pdf) during the design process.
     
@@ -87,7 +84,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/antfromano/milestone-project-1/blob/master/docs/results_Nu_Html_Checker.pdf)
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/antfromano/milestone-project-1/blob/master/docs/W3C_CSS%20Validator_results.pdf)
 
-### Testing User Stories from User Experience (UX) Section
+### Testing User Stories from User Experience (UX)
 
 -   #### Potential Employer Goals
 
@@ -149,10 +146,10 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ### Further Testing
 
--   The Website was tested on Google Chrome, Internet Explorer and Microsoft Edge.
--   The website was viewed on a variety of devices such as Desktop, Chromebook and Pixel XL.
--   A large amount of testing was done to ensure that all pages were linking correctly.
--   Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
+-   Tested on Google Chrome, Internet Explorer and Microsoft Edge.
+-   Viewed on variety of devices such as Desktop, Chromebook and Pixel XL.
+-   Testing was done to ensure that all pages linked correctly.
+-   Friends and family were asked to review site and documentation for any bugs and/or user issues.
 -   Attempted to send a message with empty form and empty input fields and verified error message.
 -   Attempted to submit form with an invalid email address and verified error message.
 -   Submitted the form with all inputs valid and verify that a success message appears.
@@ -166,38 +163,35 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ### GitHub Pages
 
-The project was deployed to GitHub Pages using the following steps...
+Project was deployed to GitHub Pages with the following steps...
 
-1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
-2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
-    - Alternatively Click [Here](https://raw.githubusercontent.com/) for a GIF demonstrating the process starting from Step 2.
-3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
-4. Under "Source", click the dropdown called "None" and select "Master Branch".
-5. The page will automatically refresh.
-6. Scroll back down through the page to locate the now published site [link](https://github.com) in the "GitHub Pages" section.
+1. Log in GitHub and locate [GitHub Repository](https://github.com/)
+2. At top of Repository, locate "Settings" Button.
+    - [Here](https://raw.githubusercontent.com/) is a GIF demonstrating the process.
+3. Scroll down Settings page to"GitHub Pages".
+4. Under "Source", click dropdown "None" and select "Master Branch" which automatically refresh the page.
+5. Scroll down to the newly published site [link](https://github.com) in "GitHub Pages" section.
 
 ### Forking the GitHub Repository
 
-By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps...
+Forking the GitHub Repository makes an original repository copy on oGitHub account for viewing and/or making changes but not affecting original repository achieve with the following steps.
 
-1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
-2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
-3. You should now have a copy of the original repository in your GitHub account.
+1. Log in GitHub and locate [GitHub Repository](https://github.com/)
+2. At top of Repository, locate "Fork" Button where there is now a copy of original repository.
 
 ### Making a Local Clone
 
-1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
-2. Under the repository name, click "Clone or download".
-3. To clone the repository using HTTPS, under "Clone with HTTPS", copy the link.
-4. Open Git Bash
-5. Change the current working directory to the location where you want the cloned directory to be made.
-6. Type `git clone`, and then paste the URL you copied in Step 3.
+1. Log in GitHub and locate [GitHub Repository](https://github.com/)
+2. Under repository name, select "Clone or download".
+3. For cloning repository using HTTPS copy the link under "Clone with HTTPS".
+4. Open Git Bash and modify current working directory to location of your preferred cloned directory.
+5. Input `git clone`, and paste copied URL from Step 3.
 
 ```
 $ git clone https://github.com/antfromano/milestone-project-1
 ```
 
-7. Press Enter. Your local clone will be created.
+6. Press Enter. Local clone is created.
 
 ```
 $ git clone https://github.com/antfromano/milestone-project-1
@@ -214,11 +208,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Code
 
--   The full-screen hero image code came from this [StackOverflow post](https://stackoverflow.com)
-
--   [Bootstrap4](https://getbootstrap.com/docs/4.4/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
-
--   [MDN Web Docs](https://developer.mozilla.org/) : For Pattern Validation code. Code was modified to better fit my needs and to match an Irish phone number layout to ensure correct validation. Tutorial Found [Here](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/tel#Pattern_validation)
+-   [Bootstrap](https://getbootstrap.com/): Bootstrap Library used to make site responsive.
 
 ### Content
 
