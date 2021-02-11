@@ -89,8 +89,9 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 Lighthouse was also used to validate the project for performance, accessability, best practices and SEO.
 
--   [Lighthouse](https://developers.google.com/web/tools/lighthouse) - [Results](https://github.com/antfromano/milestone-project-1/blob/master/docs/02112021lighthousereport.pdf)
+-   [Lighthouse](https://developers.google.com/web/tools/lighthouse) - [Desktop Results](https://github.com/antfromano/milestone-project-1/blob/7db764624ee882ebb55edbe669c05277ec37d338/docs/Lighthouse_Desktop.pdf)
 
+-   [Lighthouse](https://developers.google.com/web/tools/lighthouse) - [Mobile Results](https://github.com/antfromano/milestone-project-1/blob/7db764624ee882ebb55edbe669c05277ec37d338/docs/Lighthouse_Mobile.pdf)
 ### Testing User Stories from User Experience (UX)
 
 -   #### Potential Employer Goals
