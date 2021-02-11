@@ -87,6 +87,10 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/antfromano/milestone-project-1/blob/master/docs/results_Nu_Html_Checker.pdf)
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/antfromano/milestone-project-1/blob/master/docs/W3C_CSS%20Validator_results.pdf)
 
+Lighthouse was also used to validate the project for performance, accessability, best practices and SEO.
+
+-   [Lighthouse](https://developers.google.com/web/tools/lighthouse) - [Results](https://github.com/antfromano/milestone-project-1/blob/master/docs/02112021lighthousereport.pdf)
+
 ### Testing User Stories from User Experience (UX)
 
 -   #### Potential Employer Goals
