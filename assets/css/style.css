@@ -24,7 +24,9 @@ img {
     margin: 10px auto;
 }
 
-h1,h2,p { 
+h1,
+h2,
+p { 
     font-weight: 900 !important; 
 }
 

@@ -84,8 +84,8 @@ aesthetic while providing links to project examples using a clean simple accessi
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
--   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/antfromano/milestone-project-1/blob/master/docs/results_Nu_Html_Checker.pdf)
--   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/antfromano/milestone-project-1/blob/master/docs/W3C_CSS%20Validator_results.pdf)
+-   [W3C Markup Validator](https://validator.w3.org/) - [Results](https://github.com/antfromano/milestone-project-1/blob/master/docs/results_Nu_Html_Checker.pdf)
+-   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) - [Results](https://github.com/antfromano/milestone-project-1/blob/master/docs/W3C_CSS%20Validator_results.pdf)
 
 Lighthouse was also used to validate the project for performance, accessability, best practices and SEO.
 
