@@ -226,7 +226,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 -   The format for README.md was taken from [here](https://github.com/Code-Institute-Solutions/SampleREADME/blob/master/README.md)
 
--   The projects listed and linked to in the projects section are attributed to [ancraft](http://www.ancraft.net/), [Whiskey Drop](https://code-institute-solutions.github.io/BootstrapLandingPage/04-beyond_bootstrap/) and [Rosie Odenkirk](https://10xoxr.github.io/ucd-resume/contact.html)
+-   The projects listed and linked to in the projects section are attributed to [ancraft](http://www.ancraft.net/) and two sites from Code Institute: [Whiskey Drop](https://code-institute-solutions.github.io/BootstrapLandingPage/04-beyond_bootstrap/) and [Rosie Odenkirk](https://10xoxr.github.io/ucd-resume/contact.html)
 
 ### Media
 
