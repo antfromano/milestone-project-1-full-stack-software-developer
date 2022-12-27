@@ -1,6 +1,5 @@
 <h1 align="center">Milestone Project 1 - Full Stack Software Developer - Ant Romano</h1>
 
-[View the live project here.](https://antfromano.github.io/milestone-project-1-full-stack-software-developer/)
 <a href="https://antfromano.github.io/milestone-project-1-full-stack-software-developer/" target="_blank">View the live project here.</a>
 
 A comprehensive personal portfolio site designed using HTML, CSS and Bootstrap to highlight skills learned during Full Stack Software Development coursework.
